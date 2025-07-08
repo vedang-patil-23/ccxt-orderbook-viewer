@@ -14,10 +14,16 @@ Through building this project, I aimed to deepen my understanding of:
 
 This project is part of my ongoing exploration of the fintech sector. I am keen to learn more about how technology can empower financial analysis and trading, and I approach this journey with enthusiasm and curiosity. There is much to discover, and I am eager to continue building, experimenting, and growing my knowledge in this dynamic field.
 
----
+## Example View
 
-Thank you for taking the time to view this project. 
+Below is an example of the CCXT Orderbook Viewer interface:
+
+![Orderbook Viewer Example](frontend/src/assets/img.png) 
 
 ## License
 
 This project is released under the MIT License. You are free to use, modify, or share it as you wish. Contributions and learning are always welcome. 
+
+---
+
+Thank you for taking the time to view this project. 
